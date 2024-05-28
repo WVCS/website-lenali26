@@ -1,3 +1,26 @@
-body {
-
+body{
+  background-color: pink;
+}
+h1{
+  font-size: 250%;
+  letter-spacing: 1px;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+p{
+  color: white;
+}
+img{
+  width: 400px;
+}
+u1{
+  text-align: center;
+  list-style-type: none;
+  font-family: "Papyrus";
+}
+li{
+  float: left;
+}
+li a:hover{
+  bacground-color: black;
 }
