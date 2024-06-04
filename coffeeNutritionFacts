@@ -19,10 +19,7 @@
     </header>
     <main>
         <h1>Coffee Nutrition Facts</h1>
-        <iframe>https://getgrinds.zendesk.com/hc/article_attachments/13274108059547</iframe>
+<iframe src="https://getgrinds.zendesk.com/hc/article_attachments/13274108059547"></iframe>
     </main>
-    <footer>
-        <p>&copy; 2024 Your Website</p>
-    </footer>
 </body>
 </html>
