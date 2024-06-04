@@ -5,8 +5,10 @@ main {
     text-align: center;
 }
 img {
-    width: 400%;
-    height: 400%;
+     width: auto;
+    height: auto;
+    max-width: none;
+    max-height: none;
 }
 h1{
     text-align: center;
