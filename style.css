@@ -1,26 +1,35 @@
-body{
-  background-color: pink;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  background-color: pink; 
 }
-h1{
-  font-size: 250%;
-  letter-spacing: 1px;
-  color: white;
-  text-shadow: 2px 2px 4px #000000;
+
+header {
+    background-color: pink;
+    color: white;
+    padding: 1em 0;
 }
-p{
-  color: white;
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
-img{
-  width: 400px;
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
 }
-u1{
-  text-align: center;
-  list-style-type: none;
-  font-family: "Papyrus";
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
 }
-li{
-  float: left;
-}
-li a:hover{
-  bacground-color: black;
+
+main {
+    padding: 20px;
+    text-align: center;
 }
