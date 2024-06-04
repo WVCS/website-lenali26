@@ -11,18 +11,16 @@
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="page1.html">Page 1</a></li>
-                <li><a href="page2.html">Page 2</a></li>
-                <li><a href="page3.html">Page 3</a></li>
+                <li><a href="dataSetAPP.html">Data Set APP</a></li>
+                <li><a href="getGlamAPP.html">Get Glam APP</a></li>
+                <li><a href="coffeeNutritionAPP.html">Coffee Nutrition Facts</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <h1>Welcome to Page 1</h1>
-        <p>This is the content of page 1.</p>
+        <h1>Welcome to my Data Set APP</h1>
+        <p>This is my Drink Generator</p>
+<iframe src="https://studio.code.org/projects/applab/kC0jcENfLNVYDzgysOck-d3pKG-XI0_B9vJGbFE9zQo"></iframe>
     </main>
-    <footer>
-        <p>&copy; 2024 Your Website</p>
-    </footer>
 </body>
 </html>
