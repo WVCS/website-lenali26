@@ -4,7 +4,7 @@ body {
 main {
     text-align: center;
 }
-img {
+img:hover {
      width: auto;
     height: auto;
     max-width: none;
